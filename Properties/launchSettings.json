@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BigSqlSlicer": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\db-02-Apr-2021.sql\\db-02-Apr-2021.sql\" \"product_lists\""
+    }
+  }
+}
